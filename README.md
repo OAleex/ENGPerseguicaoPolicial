@@ -1,8 +1,6 @@
 # Perseguição Policial Básica em Java
 ![Perseguição Policial](https://usagif.com/wp-content/uploads/gifs/police-car-82.gif)
 
-Este é um exemplo de implementação do padrão de projeto "Observador" em Java. O padrão de Observador é usado para criar uma relação de um-para-muitos entre objetos, de modo que quando um objeto sofre uma alteração de estado, todos os seus observadores sejam notificados e atualizados automaticamente.
-
 ## Conteúdo do Repositório
 
 - `CarroPolicial.java`: Este é o arquivo principal que contém o código Java do exemplo.
